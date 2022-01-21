@@ -10,7 +10,7 @@
 - Back-end : 강민성, 장민욱
 
 ## 시연 영상
-- 시연 영상 링크: https://drive.google.com/file/d/1PetqVZfyyNbKLUyH1GuqIU60xWZ9mieJ/view?usp=sharing
+- 시연 영상 다운로드 링크: https://drive.google.com/file/d/1VEoUUSFTfd--QTRzeEnlRnOCLVZ2fl57/view?usp=sharing
 - [Wegabox 프로젝트 링크 바로가기]http://ec2-15-164-220-64.ap-northeast-2.compute.amazonaws.com:8000/movies?offset=0&limit=4
 
 ## 협업 도구
