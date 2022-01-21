@@ -10,7 +10,7 @@
 - Back-end : 강민성, 장민욱
 
 ## 시연 영상
-- ![시연 영상](https://drive.google.com/file/d/1PetqVZfyyNbKLUyH1GuqIU60xWZ9mieJ/view?usp=sharing)
+- 시연 영상 링크: https://drive.google.com/file/d/1PetqVZfyyNbKLUyH1GuqIU60xWZ9mieJ/view?usp=sharing
 - [Wegabox 프로젝트 링크 바로가기]http://ec2-15-164-220-64.ap-northeast-2.compute.amazonaws.com:8000/movies?offset=0&limit=4
 
 ## 협업 도구
@@ -26,7 +26,7 @@
 
 ## ERD
 핵심 기능 중심으로 compact하게 구현
-![모델링](https://drive.google.com/file/d/1zXtIDHPQzcLI32yahyjQRfWaoLfqLk6H/view?usp=sharing)
+![모델링](https://github.com/wecode-bootcamp-korea/28-2nd-Wegabox-backend/issues/6#issue-1110132810)
 
 ## library
 - JWT
@@ -52,9 +52,6 @@ SignUpView, SignInView, CartView, Login 데코레이터, 정규성검사
 - SignUp : 정규성 검사를 통한 회원가입 진행
 - Decorator : 로그인시 JWT 토큰 발행 및 토큰 인가로 호스트 등록
 - Cart  : 장바구니 CRUD
-
-## ERD
-<img width="1018" alt="1st_project_gamsungERD.png" src="./1st_project_gamsungERD.png">
 
 ## Reference
 - 이 프로젝트는 [**Megabox**](https://www.megabox.co.kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
