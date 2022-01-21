@@ -6,12 +6,12 @@
 
 ## 개발인원 및 기간
 - 개발기간 : 2021-01-10 ~ 2022-01-21
-- Front-end : (https://github.com/wecode-bootcamp-korea/28-2nd-Wegabox-frontend)
+- Front-end : [Wegabox 프론트엔드 github repository 링크](https://github.com/wecode-bootcamp-korea/28-2nd-Wegabox-frontend)
 - Back-end : 강민성, 장민욱
 
 ## 시연 영상
-- 시연 영상 다운로드 링크: https://drive.google.com/file/d/1VEoUUSFTfd--QTRzeEnlRnOCLVZ2fl57/view?usp=sharing
-- [Wegabox 프로젝트 링크 바로가기]http://ec2-15-164-220-64.ap-northeast-2.compute.amazonaws.com:8000/movies?offset=0&limit=4
+- [시연 영상 다운로드 링크](https://drive.google.com/file/d/1VEoUUSFTfd--QTRzeEnlRnOCLVZ2fl57/view?usp=sharing)
+- [Wegabox 프로젝트 링크 바로가기](http://ec2-15-164-220-64.ap-northeast-2.compute.amazonaws.com:8000/movies?offset=0&limit=4)
 
 ## 협업 도구
 - Slack
