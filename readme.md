@@ -26,7 +26,7 @@
 
 ## ERD
 핵심 기능 중심으로 compact하게 구현
-![모델링](https://github.com/wecode-bootcamp-korea/28-2nd-Wegabox-backend/issues/6#issue-1110132810)
+![모델링](https://user-images.githubusercontent.com/83395303/150482436-918b12f6-6c04-47f0-a4ca-2ca22c7eaa6a.png)
 
 ## library
 - JWT
