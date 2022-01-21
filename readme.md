@@ -28,9 +28,6 @@
 핵심 기능 중심으로 compact하게 구현
 ![모델링](https://user-images.githubusercontent.com/83395303/150482436-918b12f6-6c04-47f0-a4ca-2ca22c7eaa6a.png)
 
-## library
-- JWT
-
 ## 구현 기능
 ### 강민성
 소셜로그인, 예매
