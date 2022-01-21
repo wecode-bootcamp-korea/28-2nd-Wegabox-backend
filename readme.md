@@ -10,7 +10,7 @@
 - Back-end : 강민성, 장민욱
 
 ## 시연 영상
-- ![시연 영상]https://drive.google.com/file/d/1PetqVZfyyNbKLUyH1GuqIU60xWZ9mieJ/view?usp=sharing
+- ![시연 영상](https://drive.google.com/file/d/1PetqVZfyyNbKLUyH1GuqIU60xWZ9mieJ/view?usp=sharing)
 - [Wegabox 프로젝트 링크 바로가기]http://ec2-15-164-220-64.ap-northeast-2.compute.amazonaws.com:8000/movies?offset=0&limit=4
 
 ## 협업 도구
@@ -25,7 +25,8 @@
 - Infra: AWS(EC2), RDS
 
 ## ERD
-<img src='https://drive.google.com/file/d/1zXtIDHPQzcLI32yahyjQRfWaoLfqLk6H/view?usp=sharing'>
+핵심 기능 중심으로 compact하게 구현
+![모델링](https://drive.google.com/file/d/1zXtIDHPQzcLI32yahyjQRfWaoLfqLk6H/view?usp=sharing)
 
 ## library
 - JWT
