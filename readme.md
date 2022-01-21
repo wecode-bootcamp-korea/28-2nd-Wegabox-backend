@@ -1,5 +1,5 @@
 # 28-2nd-Wegabox-backend
-> 메가박스(https://www.megabox.co.kr)는 영화 예매 사이트입니다.
+> 메가박스는 영화 예매 사이트입니다. (https://www.megabox.co.kr)
 > 사이트의 핵심 기능인 영화 정보 조회 및 예매 기능을 중심으로 구현하였습니다.
 
 </br>
