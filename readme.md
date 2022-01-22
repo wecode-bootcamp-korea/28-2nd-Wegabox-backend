@@ -11,7 +11,7 @@
 
 ## 시연 영상
 - [시연 영상 다운로드 링크](https://drive.google.com/file/d/1VEoUUSFTfd--QTRzeEnlRnOCLVZ2fl57/view?usp=sharing)
-- [Wegabox 프로젝트 링크 바로가기](http://ec2-15-164-220-64.ap-northeast-2.compute.amazonaws.com:8000/movies?offset=0&limit=4)
+- [Wegabox 프로젝트 링크 바로가기](http://54.144.54.249:8000)
 
 ## 협업 도구
 - Slack
@@ -44,11 +44,11 @@
 - 상영 스케줄을 선택하면 데코레이터를 통해 받아온 유저 id와, 유저가 선택한 스케줄 id로 예매 데이터를 생성 
 
 ### 장민욱
-SignUpView, SignInView, CartView, Login 데코레이터, 정규성검사
+메인 및 영화 리스트 페이지
 #### Movie
-- SignUp : 정규성 검사를 통한 회원가입 진행
-- Decorator : 로그인시 JWT 토큰 발행 및 토큰 인가로 호스트 등록
-- Cart  : 장바구니 CRUD
+#####
+- 사용자가 전체 영화 리스트 또는 개봉작만 보도록 Q객체를 활용
+- annotate를 활용하여 테이블에 예매율을 계산한 칼럼 추가, 영화관에서 상영중인 영화 목록을 예매율 내림차순으로 볼 수 있도록 구현
 
 ## Reference
 - 이 프로젝트는 [**Megabox**](https://www.megabox.co.kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
